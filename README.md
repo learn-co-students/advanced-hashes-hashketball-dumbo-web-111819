@@ -1,7 +1,5 @@
 # Hashketball
-
 ## Learning Goals
-
 * Practice building nested hashes.
 * Practice iterating over nested hashes.
 
